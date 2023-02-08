@@ -1,3 +1,5 @@
+
+
 package jp.ac.uryukyu.ie.e225708;
 
 public class LivingTing {
